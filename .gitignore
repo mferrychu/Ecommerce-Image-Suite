@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.zip
+.env
+.env.*
+!.env.example
